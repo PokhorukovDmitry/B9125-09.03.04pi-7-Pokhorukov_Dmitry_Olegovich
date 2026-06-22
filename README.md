@@ -1,2 +1,2 @@
 # B9125-09.03.04pi-7-Pokhorukov_Dmitry_Olegovich
-.....
+C++ Developer
